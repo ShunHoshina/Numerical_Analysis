@@ -62,7 +62,7 @@ int main(void) {
 	    }*/
 	printf("\n");
     
-    printf("%d\n", rand() % 100 + 1);
+    
 	fclose(fp); // ファイルを閉じる
 
 	FILE *outputfile;         // 出力ストリーム
